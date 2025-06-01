@@ -9,7 +9,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d494d209f8ffba348bf6f83dbade8e66, type: 3}
+  m_Script: {fileID: 11500000, guid: 9dcccf6a043e2014ea37f55b6c766b9d, type: 3}
   m_Name: GPTConfig_0
   m_EditorClassIdentifier: 
   voice: 6
